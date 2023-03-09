@@ -1,2 +1,2 @@
 # TicTacToe
-Boter kaas en eieren
+Simpel boter kaas en eieren
